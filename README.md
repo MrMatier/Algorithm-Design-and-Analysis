@@ -1,6 +1,6 @@
 # Algorithm Design and Analysis
 
-Welcome to the Algorithm Design and Analysis repository, a centralized archive where I document my journey through the multifaceted world of algorithms. This repository serves not only as a storage for code but also as a reflective medium where I analyze and deduce the intricacies of different algorithmic approaches.
+Welcome to the Algorithm Design and Analysis repository, a centralized archive where I will document my journey through the multifaceted world of algorithms. This repository serves not only as a storage for code but also as a reflective medium where I analyze and deduce the intricacies of different algorithmic approaches.
 
 ## Repository Structure
 
