@@ -9,7 +9,7 @@ This repository is organized into various folders, each representing a unique ex
 ### Folders:
 
 - **Sorting Algorithms**: Contains code and detailed analysis for a variety of sorting algorithms, performance metrics, and statistical evaluations based on film ratings datasets.
-- **[Other Algorithm Category]**: Dedicated space for [specific algorithms or topics], inclusive of experimental code and corresponding evaluations.
+- **[Other in close future]**:
 
 ## Philosophy
 
