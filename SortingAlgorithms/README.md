@@ -1,6 +1,6 @@
 # Sorting Algorithms Analysis
 
-In this repository, we delve into the practical application and performance evaluation of classic sorting algorithms. Leveraging a dataset of film ratings and production dates, we transitioned from an Excel-based database to a more programmatic data structure, specifically a list of tuples in Python, to enable efficient data manipulation and sorting.
+In this repository, I delve into the practical application and performance evaluation of classic sorting algorithms. Leveraging a dataset of film ratings and production dates, I transitioned from an Excel-based database to a more programmatic data structure, specifically a list of tuples in Python, to enable efficient data manipulation and sorting.
 
 ## Data
 
@@ -17,11 +17,11 @@ The Python script `SortingAlgorithms.py` within this repository encapsulates the
   - Quick Sort
   - Bucket Sort
 
-We investigate each algorithm's time complexity, and compute key statistics of the sorted data, including the median and average ratings, post-sorting based on film ratings.
+I investigated each algorithm's time complexity, and compute key statistics of the sorted data, including the median and average ratings, post-sorting based on film ratings.
 
 ## Experiments
 
-Our approach includes:
+Approach includes:
 
 - Execution time measurement for each sorting algorithm to determine efficiency.
 - Complexity analysis to understand the theoretical versus practical performance.
