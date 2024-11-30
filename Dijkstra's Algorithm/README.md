@@ -14,13 +14,13 @@ The data structures implemented in this repository include:
 
 The code includes:
 
-- **Graph.h: Classes for the graph representations using adjacency lists and adjacency matrices.
+- **Graph.h**: Classes for the graph representations using adjacency lists and adjacency matrices.
 
-- **Dijkstra.h*: Implementation of Dijkstra's Algorithm for both graph representations.
+- **Dijkstra.h**: Implementation of Dijkstra's Algorithm for both graph representations.
 
-- **Random_Graph.h: Functions to generate random graphs with specified densities.
+- **Random_Graph.h**: Functions to generate random graphs with specified densities.
 
-- **Test.h: Functions to measure the performance of Dijkstra's Algorithm on the generated graphs.
+- **Test.h**: Functions to measure the performance of Dijkstra's Algorithm on the generated graphs.
 
 - **Main Program**: Provides functionality to generate graphs, execute Dijkstra's Algorithm, and measure execution time. It outputs the results for analysis.
 
